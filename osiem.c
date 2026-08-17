@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <float.h>
 
 float pobieranie(float x, float y);
 void zuzyciepaliwa(float x, float y);
